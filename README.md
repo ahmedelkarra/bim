@@ -1,1 +1,1 @@
-# bim
+# simple bim counter
